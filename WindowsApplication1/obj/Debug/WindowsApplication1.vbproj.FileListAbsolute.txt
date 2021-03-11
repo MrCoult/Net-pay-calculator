@@ -1,0 +1,31 @@
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Facultate\Bazele programarii pe obiecte\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Facultate\BPO\Calcularea Sal Net\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Facultate\BPO\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Facultate\BPO\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Facultate\BPO\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+I:\manele 2014\Proiecte VB\605\Munteanu Nicolae\Calcularea Sal Net\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+I:\manele 2014\Proiecte VB\605\Munteanu Nicolae\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+I:\manele 2014\Proiecte VB\605\Munteanu Nicolae\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+I:\manele 2014\Proiecte VB\605\Munteanu Nicolae\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Calcularea Sal Net\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
